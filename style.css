@@ -1,0 +1,24 @@
+#foto {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+iframe {
+    padding-left: 175px;
+    padding-top: 50px;
+}
+.lugares img {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.lugares {
+    padding-left: 175px;
+    padding-top: 50px;
+    padding-right: 175px;
+}
+h1 {
+    padding-left: 500px;
+    padding-top: 50px;
+    padding-right: 175px;
+}
